@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: rgb(233,215,207);
+    color: rgb(83,75,75);
+    margin: 50px;
+  }
+  h1 {
+      font-family: 'Oswlad', coluna;
+    }
+    p {
+      font-family: 'Fira Sans', coluna;
+      font-size: 24px;
+    }
+    a{
+      font-family: 'Fira Sans', coluna;
+      
+      text-decoration: none;
+    }
+  
+    a:hover{
+      text-decoration: underline;
+    }
+  
